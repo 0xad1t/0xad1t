@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 <!--
 **0xad1t/0xad1t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![quest-for-goku-0u-1920x1080](https://github.com/user-attachments/assets/e884e3cb-9a98-495f-8c07-17a04812257e)
